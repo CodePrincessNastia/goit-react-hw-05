@@ -1,4 +1,4 @@
-import css from './MovieCast.module.css';
+import css from './Moviecast.module.css';
 import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { getMovieCast } from '../../movies-api';
