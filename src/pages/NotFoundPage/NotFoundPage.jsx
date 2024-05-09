@@ -1,6 +1,7 @@
 import { PiCatDuotone } from "react-icons/pi";
 import {Link} from 'react-router-dom';
-import css from './NotFoundPage.module.css';
+import css from "./NotFoundPage.module.css";
+
 
 export default function NotFoundPage() {
     return (<p>Page not found. Well done! Do not worry.
